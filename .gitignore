@@ -11,10 +11,10 @@ app/.next/
 app/out/
 
 # env
-.env
-.env.local
-**/.env
-**/.env.local
+# .env
+# .env.local
+# **/.env
+# **/.env.local
 
 # misc
 *.log
