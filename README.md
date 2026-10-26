@@ -12,7 +12,8 @@ solana-blog/
 │   ├── 01-getting-started.md         # Toolchain, build, deploy, & run
 │   ├── 02-using-the-app.md           # Wallet, initialize, write, like
 │   ├── 03-smart-contract-architecture.md # PDAs, accounts, & instructions
-│   └── 04-troubleshooting-and-faq.md # Common errors & solutions
+│   ├── 04-troubleshooting-and-faq.md # Common errors & solutions
+│   └── 05-feature-testing-guide.md   # Testing matrix & test execution guide
 ├── programs/solana-blog/src/lib.rs   # Anchor program (Rust)
 ├── Anchor.toml
 ├── Cargo.toml
